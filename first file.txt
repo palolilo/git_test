@@ -1,2 +1,3 @@
 add some text
 <h1>Nadpis<h1>
+dalsi riadok
